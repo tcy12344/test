@@ -139,7 +139,4 @@ n24.place(x=280,y=260,width=120,height=40)
 
 window.mainloop()
 
-# if __name__ == "__main__":
-#     root = Tk()
-#     my_cal = 类名(root)
-#     root.mainloop()
+
